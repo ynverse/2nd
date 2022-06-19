@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  border: 0px;
+  box-sizing: border-box;
+}
+#container {
+  margin: 0px auto;
+  height: 100%px;
+  text-align: center;
+}
+#header {
+  width: 100%;
+  height: 150px;
+  line-height: 150px;
+  background-color: #e9cfa0;
+}
+#contents {
+  width: 100%;
+  height: 710px;
+  line-height: 710px;
+  background-color: #fcf0dc;
+  float: left;
+}
+#footer {
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+  background-color: #e9cfa0;
+  clear: left;
+}
